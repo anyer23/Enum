@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author monte
+ *
+ */
+module EjemploEnum {
+}
